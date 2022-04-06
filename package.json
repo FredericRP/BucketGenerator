@@ -1,18 +1,15 @@
 {
-  "name": "com.fredericrp.bucketgenerator",
-  "version": "1.3.0",
-  "displayName": "FredericRP Bucket Generator",
-  "description": "a Bucket, or Bean, generator to improve your random set.",
-  "unity": "2020.1",
-  "unityRelease": "0f1",
-  "dependencies": {
- },
- "keywords": [
-    "standard assets"
-  ],
-  "author": {
-    "name": "FredericRP",
-    "email": "unity@FredericRP.com",
-    "url": "https://FredericRP.com"
-  }
+    "name": "com.fredericrp.bucketgenerator",
+    "version": "1.3.0",
+    "displayName": "FredericRP Bucket Generator",
+    "description": "a Bucket, or Bean, generator to improve your random set.",
+    "unity": "2020.1",
+    "keywords": [
+        "standard assets"
+    ],
+    "author": {
+        "name": "FredericRP",
+        "email": "unity@FredericRP.com",
+        "url": "https://FredericRP.com"
+    }
 }
